@@ -20,6 +20,7 @@
 		document.write("<br>소진:저쩌구");
 		document.write("<br>현석:어쩌구");
 		document.write("<br>영빈:어쩌구");
+		document.write("<br>");
 	</script>
 </head>
 <body>
