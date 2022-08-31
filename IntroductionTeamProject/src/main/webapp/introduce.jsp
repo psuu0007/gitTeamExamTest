@@ -15,6 +15,7 @@
 		document.write("<br>건황:가셔요");
 		document.write("<br>원준:오셔요");
 		document.write("<br>태훈:하위");
+		document.write("<br>기형:바위");
 	</script>
 </head>
 <body>
