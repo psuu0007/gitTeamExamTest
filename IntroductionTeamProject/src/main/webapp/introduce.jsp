@@ -24,6 +24,7 @@
 		document.write("<br>재현:하위");
 		document.write("<br>민재:히위");
 		document.write("<br>동현:히위");
+		document.write("<br>윤성:끗");
 	</script>
 </head>
 <body>
