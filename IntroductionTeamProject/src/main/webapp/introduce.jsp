@@ -12,7 +12,7 @@
 	
 	<script type="text/javascript">
 		document.write("병규:지금 집에 가고 싶은사람 1");
-		document.write("건황:가셔요");
+		document.write("<br>건황:가셔요");
 	</script>
 </head>
 <body>
