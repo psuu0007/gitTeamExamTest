@@ -22,6 +22,7 @@
 		document.write("<br>영빈:어쩌구");
 		document.write("<br>윤미:하위");
 		document.write("<br>재현:하위");
+		document.write("<br>민재:히위");
 	</script>
 </head>
 <body>
